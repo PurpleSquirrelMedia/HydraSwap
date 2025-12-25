@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs16.x"
-    }
-  },
   "build": {
     "env": {
       "NODE_OPTIONS": "--openssl-legacy-provider"
